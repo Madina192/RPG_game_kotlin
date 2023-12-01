@@ -70,7 +70,7 @@ fun fight(playerHealth: Int) {
     println("Battle starts!")
 
     while (currentHealth > 0) {
-        print("\nOptions:")
+        println("Options:")
         println("1. Attack")
         println("2. Run")
 
